@@ -13,7 +13,7 @@
 <tr>
 <td width="42%"><img src="assets/kai-device.jpg" alt="The Kai device: a white e-paper screen showing the fridge inventory with quantities and expiry dates, with a speaker grille and a front button"></td>
 <td>
-<p><b>Say</b> <i>“Hi, E, S, P”</i> (or hold the front key) and ask:</p>
+<p><b>Say</b> <i>“Hi, Kai”</i> (or hold the front key) and ask:</p>
 <ul>
 <li><i>“What's about to expire in my fridge?”</i></li>
 <li><i>“What should I cook tonight?”</i> → <i>“Start it.”</i></li>
